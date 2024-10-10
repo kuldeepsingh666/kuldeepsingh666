@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeepsingh666" alt="kuldeepsingh666" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Google Cloud**
 
-- 💬 Ask me about **fastapi, flask, scrapy**
+- 💬 Ask me about **python, golang, fastapi, flask, scrapy, aws**
 
-- 📫 How to reach me **kuldeeps.official@gmail.com**
+- 📫 How to reach me **kuldeeps.official@gmail.com** **+91 7382236721**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
