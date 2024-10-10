@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, golang, fastapi, flask, scrapy, aws**
 
-- 📫 How to reach me **kuldeeps.official@gmail.com** **+91 7382236721**
+- 📫 How to reach me **kuldeeps.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
